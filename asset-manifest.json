@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/github.io/sport/static/css/main.140a9c23.css",
+    "main.js": "/github.io/sport/static/js/main.a508fb42.js",
+    "static/js/787.5d2b1d77.chunk.js": "/github.io/sport/static/js/787.5d2b1d77.chunk.js",
+    "static/media/Balon3.png": "/github.io/sport/static/media/Balon3.851db20613a9dc0944ca.png",
+    "static/media/Balon1.jpg": "/github.io/sport/static/media/Balon1.20da4c6d4f960584e8eb.jpg",
+    "static/media/fondo2.jpg": "/github.io/sport/static/media/fondo2.839e86aa24bdfdb12519.jpg",
+    "static/media/fondo3.jpg": "/github.io/sport/static/media/fondo3.726ef5470492b5e88399.jpg",
+    "static/media/revicons.eot": "/github.io/sport/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/github.io/sport/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/github.io/sport/static/media/revicons.e8746a624ed098489406.woff",
+    "index.html": "/github.io/sport/index.html",
+    "main.140a9c23.css.map": "/github.io/sport/static/css/main.140a9c23.css.map",
+    "main.a508fb42.js.map": "/github.io/sport/static/js/main.a508fb42.js.map",
+    "787.5d2b1d77.chunk.js.map": "/github.io/sport/static/js/787.5d2b1d77.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.140a9c23.css",
+    "static/js/main.a508fb42.js"
+  ]
+}
